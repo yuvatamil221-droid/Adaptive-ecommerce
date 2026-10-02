@@ -1,4 +1,5 @@
 import { useContext } from "react";
+import {UserContext} from "../context/UserContext";
 import { WishlistContext } from "../context/WishlistContext";
 import { CartContext } from "../context/CartContext";
 import Header from "../components/header";
@@ -11,7 +12,8 @@ import {
 } from "../components/common";
 export default function Wishlist({ navigate, goBack }) {
   const { wishlist, removeFromWishlist } = useContext(WishlistContext);
-  const { addToCart } = useContext(CartContext);
+  const {addToCart}=useContext(CartContext);
+const {isLoggedIn}=useContext(UserContext);
   return (
     <>
       <Header navigate={navigate} />
@@ -45,9 +47,18 @@ export default function Wishlist({ navigate, goBack }) {
                   <h2 className="line-clamp-2 font-black">{p.name}</h2>
                   <b className="mt-2 block">₹{p.price.toLocaleString()}</b>
                   <div className="mt-3 flex gap-2">
-                    <Button className="px-3 py-2" onClick={() => addToCart(p)}>
-                      Move to cart
-                    </Button>
+                    <Button
+  className="px-3 py-2"
+  onClick={()=>{
+    if(!isLoggedIn){
+      navigate("login");
+      return;
+    }
+    addToCart(p);
+  }}
+>
+  Move to cart
+</Button>
                     <button
                       onClick={() => removeFromWishlist(p.id)}
                       className="px-3 font-bold text-red-600"
