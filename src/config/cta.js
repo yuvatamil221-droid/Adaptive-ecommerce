@@ -1,0 +1,1 @@
+export const ctaConfig={deal:{primary:"Grab Deal",secondary:"Add to Wishlist"},premium:{primary:"Explore",secondary:"Complete the Look"},reorder:{primary:"Reorder",secondary:"View Similar"},explore:{primary:"View Product",secondary:"Add to Wishlist"},accessibility:{primary:"View Product",secondary:"Add to Cart"},default:{primary:"Add to Cart",secondary:"Add to Wishlist"}};

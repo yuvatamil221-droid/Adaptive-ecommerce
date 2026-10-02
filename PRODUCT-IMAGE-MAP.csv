@@ -1,0 +1,50 @@
+id,name,brand,category,subCategory,image
+fashion-kids-1,Nike Kids Kids Cotton T-Shirt,Nike Kids,fashion,kids fashion,https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&fm=jpg&q=75&w=700
+fashion-kids-2,Adidas Kids Kids Denim Jeans,Adidas Kids,fashion,kids fashion,https://unsplash.com/photos/child-touching-white-painted-wall-during-daytime-20ll1TJWASk
+fashion-kids-3,Zara Kids Kids Hoodie,Zara Kids,fashion,kids fashion,https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&fm=jpg&q=75&w=700
+fashion-kids-4,H&M Kids Kids Casual Shirt,H&M Kids,fashion,kids fashion,https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&fm=jpg&q=75&w=700
+fashion-kids-5,Puma Kids Kids Party Dress,Puma Kids,fashion,kids fashion,https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&fm=jpg&q=75&w=700
+fashion-men-1,Nike Men's Classic Cotton Shirt,Nike,fashion,men fashion,https://images.unsplash.com/photo-1511500587571-7b710abffba7?auto=format&fit=crop&fm=jpg&q=75&w=700
+fashion-men-2,Adidas Men's Premium Casual T-Shirt,Adidas,fashion,men fashion,https://images.unsplash.com/photo-1598033129183-c4f50c736f10?auto=format&fit=crop&fm=jpg&q=75&w=700
+fashion-men-3,Zara Men's Slim Fit Jeans,Zara,fashion,men fashion,https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&fm=jpg&q=75&w=700
+fashion-men-4,Puma Men's Everyday Hoodie,Puma,fashion,men fashion,https://images.unsplash.com/photo-1564490215983-296e5f56b623?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=60&w=3000
+fashion-men-5,Levi's Men's Tailored Jacket,Levi's,fashion,men fashion,https://images.unsplash.com/photo-1574787193508-baa816860d59?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=60&w=3000
+fashion-men-6,H&M Men's Comfort Trousers,H&M,fashion,men fashion,https://images.unsplash.com/photo-1608143674677-7da4dbb4c0e7?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=60&w=3000
+fashion-men-7,Uniqlo Men's Formal Oxford Shirt,Uniqlo,fashion,men fashion,https://images.unsplash.com/photo-1562604240-184d05c22958?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=60&w=3000
+fashion-men-8,Tommy Hilfiger Men's Denim Jacket,Tommy Hilfiger,fashion,men fashion,https://images.unsplash.com/photo-1604077526719-af801d3e6423?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=60&w=3000
+fashion-men-9,Calvin Klein Men's Polo T-Shirt,Calvin Klein,fashion,men fashion,https://images.unsplash.com/photo-1540222652835-67de780a427b?fm=jpg&ixlib=rb-4.0.3&q=60&w=3000
+fashion-men-10,Reebok Men's Cargo Trousers,Reebok,fashion,men fashion,https://images.unsplash.com/photo-1627776880991-808c5996527b?auto=format&fit=crop&fm=jpg&ixlib=rb-4.1.0&q=60&w=3000
+fashion-women-1,Zara Women's Women’s Casual Top,Zara,fashion,women fashion,https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&fm=jpg&q=75&w=700
+footwear-men-1,Nike Men's Running Shoes,Nike,footwear,men footwear,https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&fm=jpg&q=75&w=700
+footwear-women-1,Nike Women's Running Shoes,Nike,footwear,women footwear,https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&fm=jpg&q=75&w=700
+footwear-kids-1,Nike Kids Kids Running Shoes,Nike Kids,footwear,kids footwear,https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-smartphones-1,Apple iPhone,Apple,electronics,smartphones,https://images.unsplash.com/photo-1723054072995-af2b91c5cbb6?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-laptops-1,Apple MacBook Laptop,Apple,electronics,laptops,https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-tablets-1,Apple iPad Tablet,Apple,electronics,tablets,https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-televisions-1,Apple Bravia Smart TV,Apple,electronics,televisions,https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-cameras-1,Apple Mirrorless Camera,Apple,electronics,cameras,https://images.unsplash.com/photo-1578606460787-c1725b634269?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-audio-1,Sony True Wireless Earbuds,Sony,electronics,audio,https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-computer-accessories-1,Apple Wireless Mouse,Apple,electronics,computer accessories,https://images.unsplash.com/photo-1527814050087-3793815479db?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-wearables-1,Samsung Fitness Tracker,Samsung,electronics,wearables,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&fm=jpg&q=75&w=700
+electronics-gaming-1,Apple Gaming Console,Apple,electronics,gaming,https://images-eu.ssl-images-amazon.com/images/I/91Qct-K81gL._SL1500_.jpg
+beauty-skincare-1,L'Oreal Hydrating Serum,L'Oreal,beauty,skincare,https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&fm=jpg&q=75&w=700
+beauty-makeup-1,L'Oreal Matte Lipstick,L'Oreal,beauty,makeup,https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&fm=jpg&q=75&w=700
+beauty-haircare-1,L'Oreal Repair Shampoo,L'Oreal,beauty,haircare,https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?auto=format&fit=crop&fm=jpg&q=75&w=700
+beauty-fragrance-1,L'Oreal Luxury Perfume,L'Oreal,beauty,fragrance,https://images.unsplash.com/photo-1658266844018-303455852da6?auto=format&fit=crop&fm=jpg&q=75&w=700
+toys-kids-toys-1,LEGO Building Blocks Set,LEGO,toys,kids toys,https://images.unsplash.com/photo-1613602144332-f084fbe2429a?auto=format&fit=crop&fm=jpg&q=75&w=700
+toys-educational-toys-1,LEGO Educational Puzzle,LEGO,toys,educational toys,https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&fm=jpg&q=75&w=700
+toys-board-games-1,Mattel Family Board Game,Mattel,toys,board games,https://images.unsplash.com/photo-1642056446796-8c7d1dcb630b?auto=format&fit=crop&fm=jpg&q=75&w=700
+home-furniture-1,Dyson Modern Sofa,Dyson,home,furniture,https://images.unsplash.com/photo-1616046386594-c152babc9e15?auto=format&fit=crop&fm=jpg&q=75&w=700
+home-home-decor-1,Dyson Designer Vase,Dyson,home,home decor,https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&fm=jpg&q=75&w=700
+home-kitchen-accessories-1,Dyson Kitchen Mixer,Dyson,home,kitchen accessories,https://images.unsplash.com/photo-1556909212-d5b604d0c90d?auto=format&fit=crop&fm=jpg&q=75&w=700
+accessories-watches-1,Rolex Classic Watch 1,Rolex,accessories,watches,https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&fm=jpg&q=75&w=700
+accessories-bags-1,Casio Leather Handbag 2,Casio,accessories,bags,https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&fm=jpg&q=75&w=700
+accessories-sunglasses-1,Michael Kors Designer Sunglasses 4,Michael Kors,accessories,sunglasses,https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&fm=jpg&q=75&w=700
+accessories-wallets-1,Coach Leather Wallet 5,Coach,accessories,wallets,https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&fm=jpg&q=75&w=700
+accessories-jewelry-1,Ray-Ban Gold-tone Bracelet 6,Ray-Ban,accessories,jewelry,https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&fm=jpg&q=75&w=700
+sports-football-1,Nike Match Football,Nike,sports,football,https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&fm=jpg&q=75&w=700
+sports-cricket-1,Nike Professional Cricket Bat,Nike,sports,cricket,https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&fm=jpg&q=75&w=700
+sports-badminton-1,Nike Carbon Badminton Racket,Nike,sports,badminton,https://images.unsplash.com/photo-1716155249759-b5f068f74e63?auto=format&fit=crop&fm=jpg&q=75&w=700
+sports-tennis-1,Nike Tennis Racket,Nike,sports,tennis,https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?auto=format&fit=crop&fm=jpg&q=75&w=700
+sports-basketball-1,Nike Basketball Pro,Nike,sports,basketball,https://images.unsplash.com/photo-1595435934249-5df7ed86e1c0?auto=format&fit=crop&fm=jpg&q=75&w=700
+sports-sports-&-outdoor-1,Nike Training Cone Set,Nike,sports,sports & outdoor,https://cdn11.bigcommerce.com/s-tn8o8k48s5/images/stencil/original/image-manager/shopbysportallseason.png?t=1778190862
